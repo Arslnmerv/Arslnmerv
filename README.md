@@ -8,7 +8,7 @@
   <li>
    👩‍💻 I am currently working on a freelance project.
   </li>
-  <li> 💭 Ask me about <b> Java, Selenium, Cucumber, Cypress, SQL, TestNG, JUnit, Postman, Restful, JMeter </b>
+  <li> 💭 Ask me about <b> Java, Selenium, Cucumber, Cypress, SQL, TestNG, Postman, Restful, JMeter, Jenkins </b>
   </li>
   </ul>
   
