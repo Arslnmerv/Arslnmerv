@@ -6,6 +6,8 @@
 
 <ul>
   <li>
-    I am currently working on a freelance project.
+   👩‍💻 I am currently working on a freelance project.
+  </li>
+  <li> 💭 Ask me about Java, Selenium, Cucumber, Cypress, SQL, TestNG, JUnit, Postman, Restful, POM
   </li>
   </ul>
