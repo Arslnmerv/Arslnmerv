@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mervearslan34/" target="blank"><img align="center" src="C:\Users\Administrator\Desktop\68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667.svg" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/mervearslan34/" target="blank"><img align="center" src="https://iconape.com/wp-content/files/yd/367773/png/367773.png" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
