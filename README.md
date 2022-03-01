@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mervearslan34/" target="blank"><img align="center" src="https://iconape.com/wp-content/files/yd/367773/png/367773.png" height="40" width="40" /></a><a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=arslanmerv34@gmail.com" target="blank"><img align="center" src="https://1.bp.blogspot.com/-CYDSHib_wQY/X5G7l5LqTDI/AAAAAAAAklg/uJxZb4zeb0EXG_Rle2xUJGeVT7dzPUHDQCLcBGAsYHQ/s2048/Gmail%2Bnew%2BLogo%2B2020.webp" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/mervearslan34/" target="blank"><img align="center" src="https://iconape.com/wp-content/files/yd/367773/png/367773.png" height="40" width="40" /></a><a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=arslanmerv34@gmail.com" target="blank"><img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/10/gmail_logo_icon.png" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
