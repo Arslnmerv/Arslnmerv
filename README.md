@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🖐️, I'm Merve </h1> 
 
-<h3 align = "center"> Full Stack Automation Engineer </h3>
+<h3 align = "center"> Automation Engineer </h3>
 
 <!-- <p align = "justify" > </p> -->
 
