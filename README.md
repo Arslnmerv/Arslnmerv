@@ -8,7 +8,7 @@
   <li>
    👩‍💻 I am currently working at Ödeal.
   </li>
-  <li> 💭 Ask me about <b> Java, Selenium, Cucumber, Cypress, SQL, TestNG, Postman, Restful, JMeter, Jenkins </b>
+  <li> 💭 Ask me about <b> Java, Selenium, Cucumber, Cypress, SQL, TestNG, Karate, Restful, JMeter </b>
   </li>
   </ul>
   
